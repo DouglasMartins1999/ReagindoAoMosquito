@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ask>
+	<quest>
+		<id>1</id>
+		<title>Resíduos nas calhas devem ser removidos frequentemente, caso contrário:</title>
+		<alt>
+			<a>Elas podem acumular água da chuva e servir de foco para o mosquito</a>
+			<a>A larvas do mosquito se alimentarão desses resíduos</a>
+			<a>Esses resíduos poderão transmitir a dengue por sí só</a>
+			<a>Os agentes de endemias terão dificuldades em vistoriar a residência</a>
+		</alt>
+	</quest>
+	<quest>
+		<id>2</id>
+		<title>Qual das plantas abaixo pode ser considerado um repelente natural para o mosquito:</title>
+		<alt>
+			<a>Hortelã</a>
+			<a>Salsa</a>
+			<a>Deladeira</a>
+			<a>Gardênia</a>
+		</alt>
+	</quest>
+	<quest>
+		<id>3</id>
+		<title>Qual o principal sintoma da Chikungunya?</title>
+		<alt>
+			<a>Fortes dores articulares</a>
+			<a>Febre alta</a>
+			<a>Manchas na pele</a>
+			<a>Hemorragia</a>
+		</alt>
+	</quest>
+	<quest>
+		<id>4</id>
+		<title>O Aedes aegypti geralmente procura atacar:</title>
+		<alt>
+			<a>Nos fins de tarde e começo da manhã</a>
+			<a>Durante as madrugadas de calor</a>
+			<a>Em meio a força do sol do meio dia</a>
+			<a>Geralmente em dias frios</a>
+		</alt>
+	</quest>
+	<quest>
+		<id>5</id>
+		<title>Qual o melhor lugar para o Aedes se desenlvolver?</title>
+		<alt>
+			<a>Em caixas d'água</a>
+			<a>Em rios e lagos</a>
+			<a>Em águas correntes de esgoto</a>
+			<a>No mar</a>
+		</alt>
+	</quest>
+	<quest>
+		<id>6</id>
+		<title>O Aedes aegypti está mais presente:</title>
+		<alt>
+			<a>Em regiões tropicais</a>
+			<a>No Ocidente</a>
+			<a>No Oriente</a>
+			<a>Em regiões polares</a>
+		</alt>
+	</quest>
+	<quest>
+		<id>7</id>
+		<title>Fora d'água, os ovos do mosquito sobrevivem por até:</title>
+		<alt>
+			<a>450 dias</a>
+			<a>1 ano</a>
+			<a>2 meses e 15 dias</a>
+			<a>30 dias</a>
+		</alt>
+	</quest>
+	<quest>
+		<id>8</id>
+		<title>Qual característica abaixo não perdence ao mosquito Aedes:</title>
+		<alt>
+			<a>Ataca principalmente a noite</a>
+			<a>Vôo baixo e silencioso</a>
+			<a>Pequeno tamanho</a>
+			<a>Manchas brancas no corpo</a>
+		</alt>
+	</quest>
+	<quest>
+		<id>9</id>
+		<title>Há plantas que acumulam água em seu exterior, se tornando focos do mosquito, como:</title>
+		<alt>
+			<a>A bromélia</a>
+			<a>As orquídeas</a>
+			<a>O eucalipto</a>
+			<a>A lavanda</a>
+		</alt>
+	</quest>
+	<quest>
+		<id>10</id>
+		<title>As doenças da Dengue, Zika e Chikungunya são transmitidas através de:</title>
+		<alt>
+			<a>Virus</a>
+			<a>Bactérias</a>
+			<a>Fungos</a>
+			<a>Protozoários</a>
+		</alt>
+	</quest>
+	<quest>
+		<id>11</id>
+		<title>Qual o principal motivo para o Aedes se alimentar de sangue?</title>
+		<alt>
+			<a>Para ajudar no desenvolvimento dos ovos</a>
+			<a>Por necessitar de proteinas para si</a>
+			<a>Por fazer parte de sua cadeia alimentar</a>
+			<a>Pois não consegue se alimentar de outra matéria</a>
+		</alt>
+	</quest>
+	<quest>
+		<id>12</id>
+		<title>Um mosquito contaminado com um vírus, estará contaminado por quanto tempo?</title>
+		<alt>
+			<a>Por sua vida toda</a>
+			<a>Até transmiti-lo para outra pessoa</a>
+			<a>Por cerca de 15 dias</a>
+			<a>Em poucas horas, pois ele se contaminará de novo.</a>
+		</alt>
+	</quest>
+	<quest>
+		<id>13</id>
+		<title>O zika virus só pode ser transmitido por mosquitos?</title>
+		<alt>
+			<a>Não, também por relações sexuais</a>
+			<a>Não, também por secreções nasais</a>
+			<a>Sim, e somente da família Aedes</a>
+			<a>Sim, por mosquitos de várias espécies</a>
+		</alt>
+	</quest>
+	<quest>
+		<id>14</id>
+		<title>Por que em suspeita de dengue, não devemos tomar medicamentos a base de ácido acetilsalicílico (AAS, Aspirina, Doril, Melhoral, Coristina D, etc)?</title>
+		<alt>
+			<a>Há grandes riscos de provocar hemorragias</a>
+			<a>Pois impedem o corpo de gerar anticorpos contra o vírus</a>
+			<a>Os efeitos dos medicamentos agravam os sintomas</a>
+			<a>Inibe o tratamento feito por outros medicamentos</a>
+		</alt>
+	</quest>
+	<quest>
+		<id>15</id>
+		<title>Qual das regiões abaixo apresentou o maior número de casos de dengue em 2016?</title>
+		<alt>
+			<a>Sudeste</a>
+			<a>Nordeste</a>
+			<a>Norte</a>
+			<a>Sul</a>
+		</alt>
+	</quest>
+	<quest>
+		<id>16</id>
+		<title>Dentre os meios de contágio abaixo, qual dele NÃO está relacionado a dengue, zika e/ou a chikungunya:</title>
+		<alt>
+			<a>O contato com contaminados</a>
+			<a>A transfusão de sangue</a>
+			<a>Por Relações Sexuais</a>
+			<a>Pelo mosquito A. aegypti</a>
+		</alt>
+	</quest>
+	<quest>
+		<id>17</id>
+		<title>Qual desses sintomas não é característico de um paciente com dengue?</title>
+		<alt>
+			<a>Náuseas</a>
+			<a>Vermelhidão nos olhos</a>
+			<a>Dores musculares</a>
+			<a>Febre alta</a>
+		</alt>
+	</quest>
+</ask>
