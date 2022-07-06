@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<note>
+		<id>01</id>
+		<img>3hxef48oysouf0z7</img>
+		<title>Limpe suas calhas!</title>
+		<label>Deixar resíduos nelas pode acumular água e se tornar um local apropriado para a procriação do mosquito.</label>
+	</note>
+	<note>
+		<id>02</id>
+		<img>4j0lfi30xp7cfqxh</img>
+		<title>Seja educado com os agentes</title>
+		<label>Eles são importantes funcionários da saúde que se preocupam com o bem de todos. Abra a porta para eles!</label>
+	</note>
+	<note>
+		<id>03</id>
+		<img>4qlp8n2f8pnubr7f</img>
+		<title>Vai viajar? Vacine antes!</title>
+		<label>Se for viajar para regiões com surtos de febre amarela, passe em uma UBS para se vacinar contra a doença 10 dias antes</label>
+	</note>
+	<note>
+		<id>04</id>
+		<img>5mbd3xugj84s5d0o</img>
+		<title>Choveu? Seque seu quintal!</title>
+		<label>Poças d'água que surgem após a chuva também são locais propícios para o mosquito se reproduzir.</label>
+		<notify>Data to show</notify>
+	</note>
+	<note>
+		<id>05</id>
+		<img>7bo5qf4y635vbu1l</img>
+		<title>Olhou sua caixa d'água hoje?</title>
+		<label>As vezes são as coisas mais comuns que passam despercebidas. Não deixe sua caixa d'água destampada!</label>
+	</note>
+	<note>
+		<id>06</id>
+		<img>7hj7s1vkjcbkkcd1</img>
+		<title>Use repelente, mas faça mais!</title>
+		<label>O repelente é uma boa solução para afastar o mosquito, porém, além do efeito passageiro, ele não combate o Aedes.</label>
+	</note>
+	<note>
+		<id>07</id>
+		<img>7l7ryjjxft0e5uu8</img>
+		<title>Use repelentes naturais</title>
+		<label>Plantas como alecrim, hortelã, manjericão agem como repelentes de mosquitos. É uma boa ideia espalha-las pela casa?</label>
+	</note>
+	<note>
+		<id>08</id>
+		<img>7rtuerguv41yup5f</img>
+		<title>Cuide de sua calçada!</title>
+		<label>Esgoto a céu aberto e lixo na frente de casa não combina com higiene nem com prevenção.</label>
+	</note>
+	<note>
+		<id>09</id>
+		<img>8h1g42d6s3vqexl4</img>
+		<title>Esteja atento!</title>
+		<label>Nem sempre manchas na pele, dores articulares e de cabeça são o que parecem ser. Consulte um médico.</label>
+	</note>
+	<note>
+		<id>10</id>
+		<img>8z55qsxht4f9i9vv</img>
+		<title>Dupla precaução!</title>
+		<label>Gestantes devem redobrar os cuidados quando o assunto é o Aedes aegypti. Roupas compridas serão suas maiores aliadas.</label>
+	</note>
+	<note>
+		<id>11</id>
+		<img>9vlqcxz9r5m7jubo</img>
+		<title>Quer mais proteção?</title>
+		<label>Barreiras físicas como telas de proteção também podem impedir o mosquito de entrar em sua casa.</label>
+	</note>
+	<note>
+		<id>12</id>
+		<img>9yb6n4u1ruvkfftx</img>
+		<title>Focos do mosquito? Denuncie!</title>
+		<label>Há locais que podem se tornar focos do Aedes próximos a sua casa? Relate aqui mesmo no site o caso aos agentes.</label>
+	</note>
+	<note>
+		<id>13</id>
+		<img>12s9z0izuqmn95dc</img>
+		<title>Redobre a atenção</title>
+		<label>O mosquito Aedes ataca geralmente no começo da manhã e nos fins de tarde, por isso, fique alerta nesses horários.</label>
+	</note>
+	<note>
+		<id>14</id>
+		<img>13m5g0vjrpl0bxkj</img>
+		<title>Jogar lixo em terrenos? Não!</title>
+		<label>Além de ser uma grande falta de educação, o lixo pode se encher de água e se tornar focos do mosquito.</label>
+	</note>
+	<note>
+		<id>15</id>
+		<img>19rlvlwwp2068jd7</img>
+		<title>Cuide de quem você ama</title>
+		<label>Um pequeno mosquito pode tirar a vida de alguém muito importante para você.</label>
+		<notify>Segundo o Ministério da Saúde, somente a Zika e a Chikungunya mataram aproximadamente 190 pessoas apenas em 2016. Não abra mão de sua vida por deixar o mosquito viver</notify>
+	</note>
+	<note>
+		<id>16</id>
+		<img>28q5tm36i1385clv</img>
+		<title>Ele voa baixo mas voa longe!</title>
+		<label>Cuide de sua casa para não receber a visita inesperada desse mosquito.</label>
+	</note>
+	<note>
+		<id>17</id>
+		<img>76vpylmut7b9bq6w</img>
+		<title>450 dias</title>
+		<label>É o tempo médio que os ovos do mosquito podem ficar vivos SEM ÁGUA próxima. Esteja atento para combatê-los.</label>
+	</note>
+	<note>
+		<id>18</id>
+		<img>158tnjmgqhdxchxp</img>
+		<title>Dia de faxina = Proteção</title>
+		<label>Além de ajudar na limpeza de sua casa, usar cloro e água sanitária ajuda a manter o mosquito longe de sua casa.</label>
+	</note>
+	<note>
+		<id>19</id>
+		<img>221q0ddj10lsd66c</img>
+		<title>Compartilhe Informação</title>
+		<label>Já usou seu celular hoje para divulgar informações sobre como combater o Aedes? As redes sociais é um bom começo</label>
+	</note>
+	<note>
+		<id>20</id>
+		<img>aeg5g6wcornzfka6</img>
+		<title>Saiba diferenciar o Aedes!</title>
+		<label>Você não pode deixar um pequeno mosquito preto rajado com vôo baixo e silencioso te tirar do sério.</label>
+	</note>
+	<note>
+		<id>21</id>
+		<img>ag8vfwjuhkhrm96u</img>
+		<title>Há plantas que vem para o mal</title>
+		<label>Babosa, bromélias, gravatás, bambu, entre outras. Todo tipo de planta que podem acumular água devem ser evitadas.</label>
+	</note>
+	<note>
+		<id>22</id>
+		<img>ar3hdlkosvsrffej</img>
+		<title>Será que estão seguros?</title>
+		<label>Vasos de plantas podem acumular água após ser regados. Não deixe sua planta morrer mas não deixe o mosquito nascer.</label>
+	</note>
+	<note>
+		<id>23</id>
+		<img>b1rzapaug9uhs8fl</img>
+		<title>Trate-se! Cuide-se!</title>
+		<label>Normalmente, os sintomas dessas doenças desaparecem em até 10 dias de tratamento. Se cuide para recuperar sua saúde.</label>
+	</note>
+	<note>
+		<id>24</id>
+		<img>c0ogap7fj0t3wszk</img>
+		<title>Basta jogar a água fora?</title>
+		<label>O Aedes põe os ovos a beira da água, e mesmo se ela for jogada fora, ele vai continuar lá. Pra sair? Só com limpeza!</label>
+	</note>
+	<note>
+		<id>25</id>
+		<img>cgssxmpi326ois2n</img>
+		<title>Uma tampinha de garrafa...</title>
+		<label>Pode ser o bastante para que o mosquito se espalhe. Focos podem estar nas pequenas coisas, portanto, saiba se cuidar.</label>
+	</note>
+	<note>
+		<id>26</id>
+		<img>d31joxqc7745zj0x</img>
+		<title>Lixo! Um grave oponente!</title>
+		<label>O lixo a céu aberto pode acumular água e atrair o mosquito. Sempre o mantenha lacrado em sacos plásticos.</label>
+	</note>
+	<note>
+		<id>27</id>
+		<img>dtb0135okmyiqkde</img>
+		<title>Medicamento contra indicado!</title>
+		<label>Tomar remédios por conta própria pode agravar casos de dengue e provocar hemorragias. Nesse caso, procure um médico.</label>
+	</note>
+	<note>
+		<id>28</id>
+		<img>e4erdmzpgq4dw23n</img>
+		<title>Não atraia o mosquito!</title>
+		<label>Água nas plantas ou nos vasos são uma péssima combinação para o Aedes! Decore sua casa mas com proteção em mente!</label>
+	</note>
+	<note>
+		<id>29</id>
+		<img>ejej9s6cfymg79qr</img>
+		<title>Não pode evitar água parada?</title>
+		<label>As vezes é inevitável deixar água parada, e para evitar a visita do Aedes, use sempre cloro ou água sanitária.</label>
+	</note>
+	<note>
+		<id>30</id>
+		<img>gjy1lhglo2blz886</img>
+		<title>Geladeira e ar condicionado!</title>
+		<label>A bandeja desses eletrodomésticos acumulam água, o que é um bom lugar para o Aedes se procriar. Mantenha-as secas!</label>
+	</note>
+	<note>
+		<id>31</id>
+		<img>ie5h0b30p1422ia5</img>
+		<title>Atenção com os pratos</title>
+		<label>Se possui pratos de vasos de planta em casa, preencha-os até a borda com areia para evitar que se encham de água.</label>
+	</note>
+	<note>
+		<id>32</id>
+		<img>iy2uuv2osi6af10m</img>
+		<title>Não há lugar específico!</title>
+		<label>Não é apenas em lixo e caixas d'água que o mosquito se procria. Esteja atento a todo lugar que possa acumular água.</label>
+	</note>
+	<note>
+		<id>33</id>
+		<img>kscglzxp7to71j0j</img>
+		<title>Não fique preso ao lar!</title>
+		<label>O combate ao mosquito não pode acontecer só em sua casa. Cuide de sua cidade e faça dela um lugar melhor para todos.</label>
+	</note>
+	<note>
+		<id>34</id>
+		<img>leanlv8v90y54gko</img>
+		<title>Garrafas + Água = Mosquito</title>
+		<label>Não permita que essa combinação aconteça em sua casa! Mantenha as garrafas secas e viradas para baixo.</label>
+	</note>
+	<note>
+		<id>35</id>
+		<img>m5o2uua1mk2ezddx</img>
+		<title>O banheiro também tem focos</title>
+		<label>Esteja atento a ralos obstruídos ou tampados. Impedir a água de circular é um erro grave na luta contra o Aedes.</label>
+	</note>
+	<note>
+		<id>36</id>
+		<img>mfmzg0ucwornk5lm</img>
+		<title>Choveu? Lavou? Seque a laje!</title>
+		<label>Até mesmo lajes ou quintais com pequenas poças d'água são atrativos para o mosquito, não facilite as coisas pra ele</label>
+	</note>
+	<note>
+		<id>37</id>
+		<img>mo52wf9okwryse8z</img>
+		<title>Vai viajar? Observe primeiro!</title>
+		<label>Faça uma vistoria em casa para evitar deixar água parada ou locais que possam acumular água da chuva antes de viajar.</label>
+	</note>
+	<note>
+		<id>38</id>
+		<img>nifsenpax0ylmugd</img>
+		<title>Reagindo ao Mosquito!!</title>
+		<label>Ninguém combate o Aedes sozinho! Junte-se a seus amigos e faça uma brigada em seu bairro para eliminar esse oponente!</label>
+	</note>
+	<note>
+		<id>39</id>
+		<img>pgjh1fhmbu4390j8</img>
+		<title>O Aedes pode estar na privada!</title>
+		<label>A água não precisa estar limpa, nem que o Aedes fique lá por muito tempo, então sempre desifete-a com água sanitária.</label>
+	</note>
+	<note>
+		<id>40</id>
+		<img>psfpi2r9jg7v963l</img>
+		<title>Cuide de seu animalzinho!</title>
+		<label>O Aedes pode usar vasilhas de água e comida para procriar sua espécie. Mantenha esses recipientes sempre higienizados!</label>
+	</note>
+	<note>
+		<id>41</id>
+		<img>qh1oakao6slqy39n</img>
+		<title>Armazenar água? Até pode...</title>
+		<label>Mas se certifique de que o tonel, garrafa ou barril está bem tampado para impedir que o mosquito entre.</label>
+	</note>
+	<note>
+		<id>42</id>
+		<img>qkkfe78snte8iptc</img>
+		<title>Guardar pneus? Só cobertos!</title>
+		<label>É preciso secá-los totalmente para guardar e, se possível, fazer furos para que a água da chuva tenha por onde sair.</label>
+	</note>
+	<note>
+		<id>43</id>
+		<img>qxzi96tl63bhhc7n</img>
+		<title>Chikungunya: A coisa é séria</title>
+		<label>Ela é capaz de te deixar com fortes dores nas articulações por meses, tirando sua qualidade de vida. Proteja-se!</label>
+	</note>
+	<note>
+		<id>44</id>
+		<img>rmbltb6tvktwxp5u</img>
+		<title>Já averiguou sua casa hoje?</title>
+		<label>10 minutos por semana dedicados a proteção podem te poupar de inúmeros transtornos no futuro.</label>
+	</note>
+	<note>
+		<id>45</id>
+		<img>s5bghxiq63l36b5s</img>
+		<title>Como um peixe fora d'água!</title>
+		<label>Assim como seu peixe precisa de água para viver, o mosquito também precisa! Higienize seu aquário frequentemente!</label>
+	</note>
+	<note>
+		<id>46</id>
+		<img>ul4iv1pklks8yton</img>
+		<title>Lixo a céu aberto: Criadouro!</title>
+		<label>Todo lixo deve ser armazenado em sacos plásticos para evitar o acumulo de água e atrair o mosquito.</label>
+	</note>
+	<note>
+		<id>47</id>
+		<img>uvg8eb2gy4b947dn</img>
+		<title>Pegou dengue? Beba água!</title>
+		<label>Uma das características da dengue é a desidratação, portanto, nessas horas a água é sua melhor aliada.</label>
+	</note>
+	<note>
+		<id>48</id>
+		<img>w8bvieqiaob72r61</img>
+		<title>O Aedes ama sua casa!</title>
+		<label>Ele busca refúgio do sol em ambientes com sombra durante o dia. Não deixe que ele se abrigue em sua casa!</label>
+	</note>
+	<note>
+		<id>49</id>
+		<img>wrwk0yu2w51evou4</img>
+		<title>O mosquito quer espaço!</title>
+		<label>O local favorito para o Aedes se procriar é em amplos reservatórios de água, como caixas d'água e tonéis. Fique alerta!</label>
+	</note>
+	<note>
+		<id>50</id>
+		<img>wu388n5ugmqvg7x0</img>
+		<title>Choveu? Virou!</title>
+		<label>A água da chuva não pode ficar acumulada em vasilhas, portanto, sempre deixe-as viradas para baixo.</label>
+	</note>
+	<note>
+		<id>51</id>
+		<img>y50rg9v3z0ks6nt4</img>
+		<title>Até o Aedes gosta de piscina!</title>
+		<label>Por isso, higienize-a sempre! Colocando cloro ou trocando a água com frequência</label>
+	</note>
+	<note>
+		<id>52</id>
+		<img>ydsbbo5zpg1y5764</img>
+		<title>Denúncia Anônima!</title>
+		<label>Há um foco do mosquito próximo a sua casa? Então faça uma denúncia anônima com foto em nosso site! Ajude o combate!</label>
+	</note>
+</list>

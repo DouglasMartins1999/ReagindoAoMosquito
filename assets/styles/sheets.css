@@ -1,0 +1,275 @@
+/* CSS Document */
+
+	.topbar {
+		width:100%;
+		height:65px;
+		position:absolute;
+		background:RGBA(0,0,0,0.5);
+		top:0;
+		left:0;
+		z-index:979;
+		line-height:65px;
+	}
+	.footer {
+		width:100%;
+		height:65px;
+		position:relative;
+		background:#444;
+		top:0;
+		left:0;
+		z-index:979;
+		line-height:65px;
+	}
+	body {
+		margin:0;
+		font-family:"Tahoma","Trebuchet MS", Helvetica, sans-serif;
+	}
+	.header {
+		background:url("/assets/images/bg/bac1.jpg");
+		background-attachment:fixed;
+		background-size:cover;
+		background-position:50% 100%;
+		background-repeat:no-repeat;
+		width:100%;
+		height:420px;
+		box-sizing:content-box;
+		top:0;
+		left:0;
+		position:relative;
+	}
+	.logotop {
+		top:7px;
+		height:55px;
+		border:0;
+		float:left;
+		position:relative;
+	}
+	.contentop {
+		left:6%;
+		width: 94%;
+		position:relative;
+		font-family:"Tahoma", "Trebuchet MS", Helvetica, sans-serif;
+		font-weight:400;
+		color:#FFF;
+		font-size: 15px;
+	}
+	.contentop a {
+		color:#FFF;
+		text-decoration:none;
+	}
+	.headtitle {
+		font-family:"Tahoma","Trebuchet MS", Helvetica, sans-serif;
+		color:#FFF;
+		font-size: 35px;
+		top:45%;
+		text-align:center;
+		position:relative;
+	}
+	.cont {
+		width:80%;
+		padding:5% 10%;
+		position:relative;
+	}
+	.h1, h2, h3, h4, h5, h6 {
+		margin-bottom:15px;
+	}
+	.card1 {
+		width:38%;
+		position:relative;
+		background:url("/assets/images/aprend.png");
+		height:415px;
+		float:left;
+		margin-right:2%;
+		background-attachment:fixed;
+		background-size: cover;
+		background-position:0% 50%;
+		background-repeat:no-repeat;
+	}
+	.card2 {
+		width:60%;
+		position:relative;
+		background:url("/assets/images/aedes.jpg");
+		height:200px;
+		float:left;
+		margin-bottom:15px;
+		background-size: cover;
+		background-position:center;
+		background-repeat:no-repeat;
+	}
+	.card3 {
+		width:29%;
+		position:relative;
+		background:url("/assets/images/mapa1.jpg");
+		height:200px;
+		float:left;
+		margin-right:1%;
+		background-size: cover;
+		background-position:center;
+		background-repeat:no-repeat;
+	}
+	.card4 {
+		width:29%;
+		position:relative;
+		background:url("/assets/images/share.jpg");
+		height:200px;
+		float:left;
+		margin-left:1%;
+		background-size: cover;
+		background-position:center;
+		background-repeat:no-repeat;
+	}
+	.contcard1 {
+		width:50%;
+		height:420px;
+		float:left;
+		background:url("/assets/images/secretaria.jpg");
+		background-size: cover;
+		background-position:center;
+		background-repeat:no-repeat;
+	}
+	.contcard2 {
+		width:50%;
+		height:420px;
+		float:left;
+		background:url("/assets/images/quests.jpg");
+		background-size: cover;
+		background-position:center;
+		background-repeat:no-repeat;
+	}
+	.content {
+		margin: 10%;
+		text-align: justify;
+	}
+	.content h2, h3 {
+		text-align:left;
+		text-transform:uppercase;
+	}
+	.buttonp {
+		text-decoration: none;
+		background:#BA9ECE;
+		border:1px solid #654D87;
+		color:#3B2D54;
+		font-size:15px;
+		padding:8px;
+		top: 5px;
+    	position: relative;
+	}
+	.buttong {
+		text-decoration: none;
+		background:#F2EFE6;
+		border:1px solid #79825F;
+		color:#4E5448;
+		font-size:15px;
+		padding:8px;
+		top: 5px;
+    	position: relative;
+	}
+	.buttong:hover {
+		background: #9d9e7e;
+		border: 1px solid #424638;
+		color: #3f463b;
+	}
+	.buttonp:hover {
+	    background: #795c8e;
+		border: 1px solid #473463;
+		color: #2b2438;
+	}
+	
+	.buttonv {
+		text-decoration: none;
+		background: #3ab473;
+		border: 1px solid #1a4a40;
+		color: #293141;
+		font-size:15px;
+		padding:8px;
+		top: 5px;
+    	position: relative;
+	}
+	.buttonv:hover {
+		background: #3a635a;
+		border: 1px solid #203833;
+		color: #101f1c;
+	}
+	
+	.buttonb {
+		text-decoration: none;
+		background: #EEE;
+		border: 1px solid #999;
+		color: #888;
+		font-size:15px;
+		padding:8px;
+		top: 5px;
+    	position: relative;
+	}
+	.buttonb:hover {
+		background: #999;
+		border: 1px solid #666666;
+		color: #555;
+	}
+	.contentop a:hover {
+		color:#3baeb5;
+	}
+	.maindata {
+		width:80%;
+		padding:7% 10%;
+		background:#FDFDFD;
+	}
+	.subtitle {
+		font-size:0.9em;
+		color:#555;
+	}
+	.main-frame-1 {
+		width:68%;
+		padding-right:2%;
+		float:left;
+	}
+	.main-frame-2 a {
+		text-decoration:none;
+		color:#777;
+	}
+	.main-frame-1 h1, h2, h3, h4, h5, h6 {
+		margin:0;
+	}
+	.main-frame-1 img {
+		width:100%;
+		border:10px solid #FFF;
+		box-sizing:border-box;
+	}
+	.main-frame-1 p {
+		font-size: 0.95em;
+		line-height: 1.5;
+		text-align:justify;
+	}
+	.main-frame-2 {
+		width:29%;
+		padding-left:1%;
+		float:left;
+	}
+	.lateral-menu-item {
+		position:relative;
+		width:100%;
+		padding:0.7em 1.5em;
+		box-sizing:border-box;
+		font-size:0.8em;
+		border-top:1px solid #AAA;
+	}
+	.lateral-menu-item-side {
+		position:relative;
+		width:100%;
+		padding:0.6em 2.5em;
+		box-sizing:border-box;
+		font-size:0.7em;
+		color:#777;
+		border-top:1px solid #DDD;
+	}
+	.lateral-menu-item a {
+		text-decoration:none;
+	}
+	.iframedata {
+		width: 800px;
+		padding: 7% 0;
+		background: #FDFDFD;
+		left: 50%;
+		position: relative;
+		margin-left: -400px;
+	}

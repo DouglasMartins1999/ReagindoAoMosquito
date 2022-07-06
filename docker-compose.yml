@@ -1,0 +1,31 @@
+version: "3"
+services:
+  reagindo:
+    image: martindoug/reagindo-fapesb:latest
+    container_name: reagindo
+    ports:
+      - 80:80
+      - 443:443
+    environment:
+      - DB_HOST=mysql
+      - DB_USER=reagindo
+      - DB_NAME=db_reagindo
+      - DB_PSWD=your_random_pswd
+      - BASE_URL=https://your-server.com
+
+  mysql:
+    image: mariadb:10.5.9
+    container_name: mysql
+    volumes:
+      - ${PWD}/database:/var/lib/mysql
+    environment:
+      - MYSQL_USER=reagindo
+      - MYSQL_DATABASE=db_reagindo
+      - MYSQL_PASSWORD=your_random_pswd
+      - MYSQL_ROOT_PASSWORD=your_random_root_pswd
+    restart: always
+
+networks:
+  default:
+    name: application
+    driver: bridge
